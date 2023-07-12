@@ -1,3 +1,7 @@
+// Nama   : Renvil Imawan
+// NIM    : G.111.20.0032
+// Matkul : Pemrograman Berorientasi Objek
+
 public class Petugas {
   private String namaPetugas;
   private String nip;

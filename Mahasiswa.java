@@ -1,3 +1,7 @@
+// Nama   : Renvil Imawan
+// NIM    : G.111.20.0032
+// Matkul : Pemrograman Berorientasi Objek
+
 public class Mahasiswa extends Peminjam{
   private String namaMhs;
   private String nim;
@@ -21,4 +25,5 @@ public class Mahasiswa extends Peminjam{
   public String getNamaPeminjam() {
     return this.namaMhs;
   }
+
 }
